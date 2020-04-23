@@ -22,7 +22,6 @@ export default StyleSheet.create({
         shadowRadius: 10
       }
     }),
-    minHeight: height * 0.5,
     maxHeight: height * 0.85
   },
   childrenContainer: {
